@@ -22,19 +22,35 @@ Data Plots:
 
 
 ![Mean of the Integrated Pulse Profile](/Visualization/img/mean_ipp.png)
+
 *Mean of the Integrated Pulse Profile*
+
 ![Standard Deviation the Integrated Pulse Profile](/Visualization/img/stddev-ipp.png)
+
 *Standard Deviation the Integrated Pulse Profile*
+
 ![Excess Kurtosis of the Integrated Pulse Profile](/Visualization/img/ek-ipp.png)
+
 *Excess Kurtosis of the Integrated Pulse Profile*
+
 ![Skewness of the Integrated Pulse Profile](/Visualization/img/sk-ipp.png)
+
 *Skewness of the Integrated Pulse Profile*
 
+
 ![Mean of the DMSNR Curve](/Visualization/img/mean-dmsnr.png)
+
 *Mean of the DMSNR Curve*
+
 ![Standard Deviation the DMSNR Curve](/Visualization/img/stddev-dmsnr.png)
+
 *Standard Deviation the DMSNR Curve*
+
 ![Excess Kurtosis of the DMSNR Curve](/Visualization/img/ek-dmsnr.png)
+
 *Excess Kurtosis of the DMSNR Curve*
+
 ![Skewness of the DMSNR Curve](/Visualization/img/sk-dmsnr.png)
+
 *Skewness of the DMSNR Curve*
+
