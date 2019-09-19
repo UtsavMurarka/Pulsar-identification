@@ -1,6 +1,6 @@
-# Pulsar-identification
+# Pulsar Identification using machine learning
 
-The [dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) contains statistical features of signals of pulsar candidates collected by the High Time Resolution Universe Survey (South). The data has a positive:negative class imbalance of 1:10, which makes training models to correctly identify the positives difficult. Therefore, the aim to to decrease the number of false negatives predicted by the models.
+The [dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) contains statistical features of signals of pulsar candidates collected by the High Time Resolution Universe Survey (South). The goal of this project is to train machine learning models to classify "Pulsar Candidates" and "Noise". The data has a positive:negative class imbalance of 1:10, which makes training models to correctly identify the positives difficult. Therefore, the aim to to decrease the number of false negatives predicted by the models.
 The number of false negatives were decreased by 50% by using oversampling and undersampling.
 
 The Data:
